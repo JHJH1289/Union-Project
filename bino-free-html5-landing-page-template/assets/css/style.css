@@ -303,7 +303,7 @@ Separator
     width: 10px;
     height: 10px;
     margin: 20px auto;
-    background: #e74c3c;
+    background: #0e486f;
     position: relative;
     display: inline-block;
     border-radius: 50%;
@@ -398,7 +398,7 @@ Button
     margin-top: 20px;
     margin-bottom: 20px;
     transition: .5s;
-    border: 1px solid #e74c3c;
+    border: 1px solid #13416e;
     font-family: 'open_sansbold';
     padding: 0.8rem 3rem;
     transition: all 0.6s;
@@ -415,11 +415,11 @@ Button
     padding: 1.125rem 3rem;
 }
 .btn-default:hover{
-    background: #e74c3c;
-    border:1px solid #e74c3c;
+    background: #174e85;
+    border:1px solid #174e85;
 }
 .btn-lg{
-    background: #e74c3c;
+    background: #174e85;
     padding: 1.125rem 3rem;
     margin: auto;
 }
@@ -642,7 +642,7 @@ input::-ms-input-placeholder {
 }
 .scrooldown a i{
     font-size:1.5rem;
-    color:#e74c3c;
+    color:#174e85;
 }
 
 
@@ -1316,7 +1316,7 @@ li .single_team_text p{
 
 
 .main_blog_content .single_blog_area .single_blog_text{
-    background: #e74e3e;
+    background: #2183c4;
     padding: 70px 30px 70px 50px;
     position: relative;
 }
@@ -1328,7 +1328,7 @@ li .single_team_text p{
     width: 0;
     height: 0;
     border-top: 30px solid transparent;
-    border-right: 30px solid #e74e3e;;
+    border-right: 30px solid #2183c4;
     border-bottom: 30px solid transparent;
 }
 .main_blog_content .single_blog_area .single_blog_text.s_b_right:after{
@@ -1340,7 +1340,7 @@ li .single_team_text p{
     width: 0;
     height: 0;
     border-top: 30px solid transparent;
-    border-left: 30px solid #e74e3e;;
+    border-left: 30px solid #2183c4;
     border-bottom: 30px solid transparent;
 }
 .main_blog_content .single_blog_area .single_blog_text a.read_more{
@@ -1366,7 +1366,7 @@ li .single_team_text p{
     box-shadow: 0px 0px 0px 3px rgba(0, 0, 0, 0.01);
 }
 .contact_info_content h3{
-    color:#e74e3e;
+    color: #1e68b3;
     font-family: 'source_sans_prosemibold';
     margin-bottom: 19px;
 }
