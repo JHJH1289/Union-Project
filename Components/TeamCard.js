@@ -26,6 +26,7 @@ function TeamCard({ name, image, description, link }) {
           )}
         </p>
       </div>
+      
       <br></br>
     </div>
   );

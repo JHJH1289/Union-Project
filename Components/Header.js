@@ -20,8 +20,8 @@ function Header() {
       <div className="overlay">
         <div className="home_skew_border">
           <header className="header-title">
-            <h3>Busan Universities Unified Band Performance</h3>
-            <h1>2025 Summer Union Concert</h1>
+            <h3>KYUNG SUNG UNIVERCITY</h3>
+            <h1>2025 참여형 강의 요청 프로그램</h1>
           </header>
 
           <div className="image-slider">

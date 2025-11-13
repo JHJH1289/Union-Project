@@ -13,8 +13,8 @@ function Week1() {
   return (
     <section id="blog" className="main_blog">
       <div className="head_title">
-        <h2>공연팀</h2>
-        <div className="subtitle">공연팀 소개 입니다.</div>
+        <h2>강의 목록</h2>
+        <div className="subtitle">강의 소개 입니다.</div>
         <div className="separator"></div>
       </div>
 

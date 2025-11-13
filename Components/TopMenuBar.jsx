@@ -15,7 +15,7 @@ function TopMenuBar() {
 
   return (
     <nav className={`navbar ${isScrolled ? 'scrolled' : ''}`}>
-      <div className="navbar-logo">UNION</div>
+      <div className="navbar-logo">KYUNGSHUNG</div>
       <ul className="navbar-links">
         <li><a href="/member/login">로그인</a></li>
         <li><a href="/member/save">회원가입</a></li>
